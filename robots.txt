@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://loploploplopuwye-stack.github.io/orbita-center/sitemap.xml
